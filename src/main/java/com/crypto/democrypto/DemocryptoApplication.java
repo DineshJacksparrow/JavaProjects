@@ -12,6 +12,7 @@ public class DemocryptoApplication {
 		DemocryptoApplication d = new DemocryptoApplication();
 		DemocryptoApplication dd = new DemocryptoApplication();
 		DemocryptoApplication ddd = new DemocryptoApplication();
+		DemocryptoApplication ddddd = new DemocryptoApplication();
 	}
 
 }
