@@ -10,6 +10,8 @@ public class DemocryptoApplication {
 		SpringApplication.run(DemocryptoApplication.class, args);
 		//created by Mouli
 		DemocryptoApplication d = new DemocryptoApplication();
+		DemocryptoApplication dd = new DemocryptoApplication();
+		DemocryptoApplication ddd = new DemocryptoApplication();
 	}
 
 }
